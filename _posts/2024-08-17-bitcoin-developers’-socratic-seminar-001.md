@@ -10,13 +10,10 @@ Please join us for the first BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 
 ## Topics
 
-- [DoS Disclosure: LND Onion Bomb](https://delvingbitcoin.org/t/dos-disclosure-lnd-onion-bomb)
-- [DoS: LND Onion Bomb](https://morehouse.github.io/lightning/lnd-onion-bomb/)
 - [Who will run the CoinJoin coordinators?](https://delvingbitcoin.org/t/who-will-run-the-coinjoin-coordinators)
 - [Proposed risk framework for Bitcoin L2s and Sidechains](https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains)
 - [FE'd Up Covenants](https://delvingbitcoin.org/t/fed-up-covenants)
 - [OKX massive fee overpayment during consolidation](https://x.com/mononautical/status/1799209814146297899)
-- Odd Stale Block/Spy Mining Behaviors - [845869](https://x.com/0xB10C/status/1796518471511237065), [848860](https://x.com/0xB10C/status/1804143652962185531), [848477](https://x.com/0xB10C/status/1803082081385246738)
 - [Scortched-earth fee race on low-entropy address](https://x.com/mononautical/status/1800496416252743919)
 - [SRC-20 mint consume sigop limit](https://x.com/mononautical/status/1799864532094824726)
 - [Visualization of p2p connections and messages](https://x.com/0xB10C/status/1797904155593548273)
