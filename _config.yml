@@ -17,3 +17,6 @@ exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
 
 future: true
 
+# URL settings for GitHub Pages
+url: "https://bitdevsistanbul.org"
+baseurl: ""
