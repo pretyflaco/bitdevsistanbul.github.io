@@ -8,9 +8,7 @@ Inspired by this very ethos, the BitDevs NYC community fostered an in-person env
 
 Over time, the concept of BitDevs and the associated Socratic Seminar event series have spread to other cities. While the NYC community was first to stumble upon these ideas, it holds no trademark, license, branding or creative direction over the use of these terms. BitDevs, like any piece of open source code with a liberal license, is free for anyone to use and adapt to their local communities.
 
-If you find yourself interested in tapping into your local Bitcoin community, we have put together a list here of meetups which are known to regularly host in-person [Socratic Seminars](https://bitdevs.org/about). We hope you are able to attend and leave with a deeper connection to and appreciation for the Bitcoin community. Please [open a PR](https://github.com/BitDevsNYC/BitDevsNYC.github.io) to add your city. 
-
-As a disclaimer, BitDevs NYC has no official associations with or oversight of these meetups. In some cases we have never even spoken to the organizers. An idea, much like a hash function, is one way. If you don't like what you see, feel free to [fork it](https://github.com/BitDevsNYC/BitDevsNYC.github.io/) and [run your own](https://bitdevs.org/running-a-great-socratic-seminar/).
+If you find yourself interested in tapping into your local Bitcoin community, we have put together a list here of meetups which are known to regularly host in-person [Socratic Seminars](https://bitdevs.org/about). We hope you are able to attend and leave with a deeper connection to and appreciation for the Bitcoin community. 
 
 - [Amsterdam](https://bitdevsamsterdam.org/)
 - [Athens](https://bitdevs-athens.com/)
@@ -26,6 +24,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Louisville](https://loubitdevs.org/)
 - [Miami](https://miamibitdevs.org/)
 - [Minneapolis](https://bitdevsmpls.org)
+- [Nairobi](https://www.bitdevsnbo.org/)
 - [Nashville](https://nashbitdevs.org)
 - [Norfolk](https://norfolkbitdevs.org/)
 - [Oslo](https://www.meetup.com/bitcoin-developers-oslo/)
@@ -34,6 +33,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Raleigh / Durham / Chapel Hill](https://trianglebitdevs.org/)
 - [San Francisco](https://www.sfbitcoindevs.org/)
 - [San Juan](https://sanjuanbitdevs.org/)
+- [San Salvador](https://bitdevelsalvador.com/)
 - [São Paulo](https://bitdevsportugues.org)
 - [Taipei](https://bitdevs.tw/)
 - [Tampa](https://tampabitdevs.io/)
