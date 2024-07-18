@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Bitcoin Developers’ Socratic Seminar 001 (at CoBAC!)"
+title: "Bitcoin Developers’ Socratic Seminar #1 (at CoBAC!)"
 meetup: "https://www.meetup.com/bitdevsnyc/events/301367442/"
 ---
 
