@@ -15,7 +15,6 @@ Please join us for the first BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 - [FE'd Up Covenants](https://delvingbitcoin.org/t/fed-up-covenants)
 - [OKX massive fee overpayment during consolidation](https://x.com/mononautical/status/1799209814146297899)
 - [Scortched-earth fee race on low-entropy address](https://x.com/mononautical/status/1800496416252743919)
-- [SRC-20 mint consume sigop limit](https://x.com/mononautical/status/1799864532094824726)
 - [Visualization of p2p connections and messages](https://x.com/0xB10C/status/1797904155593548273)
 - [Dynamic-FROST: Schnorr Threshold Signatures with a Flexible Committee](https://eprint.iacr.org/2024/896)
 - [CoinStats says North Korean hackers breached 1,590 crypto wallets](https://www.bleepingcomputer.com/news/cryptocurrency/coinstats-says-north-korean-hackers-breached-1-590-crypto-wallets/)
