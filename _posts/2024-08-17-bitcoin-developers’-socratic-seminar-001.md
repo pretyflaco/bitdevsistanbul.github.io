@@ -11,6 +11,7 @@ Please join us for the first BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 ## Topics
 
 - [Who will run the CoinJoin coordinators?](https://delvingbitcoin.org/t/who-will-run-the-coinjoin-coordinators)
+- [Choose-your-own coordinator with new Wasabi release](https://x.com/wasabiwallet/status/1796988769523867735)
 - [Proposed risk framework for Bitcoin L2s and Sidechains](https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains)
 - [FE'd Up Covenants](https://delvingbitcoin.org/t/fed-up-covenants)
 - [OKX massive fee overpayment during consolidation](https://x.com/mononautical/status/1799209814146297899)
@@ -28,7 +29,6 @@ Please join us for the first BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 - [Bitcoin Mining Hashrate Futures: What They Are, Why They Matter, How to Trade Them](https://hashrateindex.com/blog/bitcoin-mining-hashrate-futures-what-they-are-why-they-matter-how-to-trade-them/)
 - [Braiins Launched Mini Miner BMM 100](https://www.nobsbitcoin.com/braiins-mini-miner-bmm-100)
 - [Cryptocurrency mining as a novel virtual energy storage system in islanded and grid-connected microgrids](https://www.sciencedirect.com/science/article/pii/S0142061524001364)
-- [Choose-your-own coordinator with new Wasabi release](https://x.com/wasabiwallet/status/1796988769523867735)
 - [CoinPile](https://x.com/JeremyRubin/status/1797315646327345538)
 - [HRF Grants 10BTC to 13 projects](https://hrf.org/hrf-bitcoin-development-fund-grants-1-billion-satoshis-to-14-projects-worldwide/)
 - [Introducing Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
