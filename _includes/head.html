@@ -22,4 +22,17 @@
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
 
+  <!-- Open Graph meta tags -->
+  <meta property="og:title" content="{% if page.title == "Home" %}{{ site.data.settings.title }} | {{ site.data.settings.tagline }}{% else %}{{ page.title }} | {{ site.data.settings.title }}{% endif %}">
+  <meta property="og:description" content="BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.">
+  <meta property="og:image" content="{{ site.url }}/assets/images/bitdevsistanbul.png">
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:type" content="website">
+  
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.title == "Home" %}{{ site.data.settings.title }} | {{ site.data.settings.tagline }}{% else %}{{ page.title }} | {{ site.data.settings.title }}{% endif %}">
+  <meta name="twitter:description" content="BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.">
+  <meta name="twitter:image" content="{{ site.url }}/assets/images/bitdevsistanbul.png">
+
 </head>
