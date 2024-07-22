@@ -12,6 +12,13 @@ Please join us for the first BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 
 - [Who will run the CoinJoin coordinators?](https://delvingbitcoin.org/t/who-will-run-the-coinjoin-coordinators)
 - [Choose-your-own coordinator with new Wasabi release](https://x.com/wasabiwallet/status/1796988769523867735)
+- [Wasabi Wallet Security Incident Disclosure](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
+- [Value tracking on the BTC sold by Germany](https://notmadeingermany.com/)
+- [Maelstrom fund: new core dev grant programme](https://x.com/CryptoHayes/status/1813474055879635288)
+- [COPA vs CSW – Injunctions Published](https://www.bailii.org/ew/cases/EWHC/Ch/2024/1809.html)
+- [Phoenix adds Bolt12 + BIP353](https://github.com/ACINQ/phoenix/releases/tag/android-v2.3.3)
+- [ZEUS adds Bolt12 + BIP353][https://blog.zeusln.com/zeus-v0-8-5-and-v0-9-0-beta/]
+- [Introducing Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
 - [Proposed risk framework for Bitcoin L2s and Sidechains](https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains)
 - [FE'd Up Covenants](https://delvingbitcoin.org/t/fed-up-covenants)
 - [OKX massive fee overpayment during consolidation](https://x.com/mononautical/status/1799209814146297899)
@@ -31,7 +38,6 @@ Please join us for the first BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 - [Cryptocurrency mining as a novel virtual energy storage system in islanded and grid-connected microgrids](https://www.sciencedirect.com/science/article/pii/S0142061524001364)
 - [CoinPile](https://x.com/JeremyRubin/status/1797315646327345538)
 - [HRF Grants 10BTC to 13 projects](https://hrf.org/hrf-bitcoin-development-fund-grants-1-billion-satoshis-to-14-projects-worldwide/)
-- [Introducing Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
 - OpenSats LTS Grants - [Calle](https://opensats.org/blog/cashu-calle-receives-lts-grant), [William Casarin](https://opensats.org/blog/jb55-receives-lts-grant)
 - [Review of early block size increase proposals](https://x.com/ajtowns/status/1798185661570441383)
 - [EU "Chat Control" bill threatens e2e encryption](https://signal.org/blog/pdfs/upload-moderation.pdf)
