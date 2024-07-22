@@ -18,6 +18,7 @@ Please join us for the first BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 - [COPA vs CSW – Injunctions Published](https://www.bailii.org/ew/cases/EWHC/Ch/2024/1809.html)
 - [Phoenix adds Bolt12 + BIP353](https://github.com/ACINQ/phoenix/releases/tag/android-v2.3.3)
 - [ZEUS adds Bolt12 + BIP353][https://blog.zeusln.com/zeus-v0-8-5-and-v0-9-0-beta/]
+- [Seth for Privacy: Setting up a bitcoin username](https://sethforprivacy.com/guides/setting-up-a-bitcoin-username/)
 - [Introducing Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
 - [Proposed risk framework for Bitcoin L2s and Sidechains](https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains)
 - [FE'd Up Covenants](https://delvingbitcoin.org/t/fed-up-covenants)
