@@ -21,3 +21,5 @@ Please join us for the first BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 - [Seth for Privacy: Setting up a bitcoin username](https://sethforprivacy.com/guides/setting-up-a-bitcoin-username/)
 - [Introducing Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
 - [Dynamic-FROST: Schnorr Threshold Signatures with a Flexible Committee](https://eprint.iacr.org/2024/896)
+
+To make topic suggestions, please make a PR [here](https://github.com/pretyflaco/bitdevsistanbul.github.io/blob/master/_posts/2024-08-17-bitcoin-developers%E2%80%99-socratic-seminar-001.md) or suggest in [BitDevs Istanbul Telegram Group](https://t.me/+o6DUM5pWV984OTQ6)
