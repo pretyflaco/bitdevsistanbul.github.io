@@ -24,6 +24,7 @@ Please join us for the second BitDevs Istanbul Socratic Seminar, hosted at CoBAC
 - [Can Nostr scale? Pt2](https://x.com/Excellion/status/1828665230869864775)
 - [OP_ZKP updates](https://groups.google.com/g/bitcoindev/c/YEXcac4FMGc)
 - [Optimistic ZK verification using MATT](https://delvingbitcoin.org/t/optimistic-zk-verification-using-matt/1050)
+- [BitVM2: Bridging Bitcoin to Second Layers](https://fixupx.com/robin_linus/status/1824004440099053949)
 
 
 To make topic suggestions, please make a PR [here](https://github.com/pretyflaco/bitdevsistanbul.github.io/blob/master/_posts/2024-08-17-bitcoin-developers%E2%80%99-socratic-seminar-001.md) or suggest in [BitDevs Istanbul Telegram Group](https://t.me/+o6DUM5pWV984OTQ6)
