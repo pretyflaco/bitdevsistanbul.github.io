@@ -10,6 +10,8 @@ Please join us for the second BitDevs Istanbul Socratic Seminar, hosted at CoBAC
 
 ## Topics
 
+- [BTCTurk exchange add Lightning deposits and withdrawals](https://x.com/BtcTurkKripto/status/1830976635463491792)
+- [Lightspark announces partnership with BTCTurk for Lightning integration](https://x.com/lightspark/status/1836471461156131171)
 - [Dynamic-FROST: Schnorr Threshold Signatures with a Flexible Committee](https://eprint.iacr.org/2024/896)
 - [Introducing NOIST: a non-interactive, single-round t-of-n threshold signing protocol](https://blog.brollup.org/introducing-noist-a-non-interactive-single-round-t-of-n-threshold-signing-protocol-51225fe513fa)
 - [Dark Skippy: Private key exfiltration](https://darkskippy.com/)
