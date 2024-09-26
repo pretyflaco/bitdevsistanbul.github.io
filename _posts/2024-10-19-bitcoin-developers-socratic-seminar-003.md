@@ -7,6 +7,7 @@ meetup: "https://www.meetup.com/bitdevs-istanbul/events/303660638/"
 
 ## Announcements
 Please join us for the 3rd BitDevs Istanbul Socratic Seminar, hosted at CoBAC! 
+[Event on Luma](https://lu.ma/d3sqpm1g)
 
 ## Topics
 
