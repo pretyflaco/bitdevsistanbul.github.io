@@ -11,6 +11,7 @@ Please join us for the 3rd BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 
 ## Topics
 
+- [bitcoin++ ecash edition in Berlin](https://btcplusplus.dev/conf/berlin24)
 - [The distributional consequences of Bitcoin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4985877)
     - [No Bullshit Bitcoin News](https://www.nobsbitcoin.com/ecb-economists-nocoiners-may-be-impoverished-by-rising-bitcoin-prices/)
     - [Comment by Tuur Demeester](https://x.com/TuurDemeester/status/1847512241173582058)
