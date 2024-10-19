@@ -21,6 +21,7 @@ Please join us for the 3rd BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 - [Major breakthrough in multiplication over Bitcoin and in STARK verification](https://x.com/StarkWareLtd/status/1828059215283335547)
 - [Can Nostr scale? Pt1](https://x.com/BobMcElrath/status/1828763959001804956)
 - [Can Nostr scale? Pt2](https://x.com/Excellion/status/1828665230869864775)
+- [Seedsafe.io presentation](https://docs.google.com/presentation/d/1FuJ5J_xXFv0PeVlFpPjaIduVSiQSBJeX0-GYR7iTggc/edit#slide=id.g2d434ba0d18_0_123)
 - [OP_ZKP updates](https://groups.google.com/g/bitcoindev/c/YEXcac4FMGc)
 - [Optimistic ZK verification using MATT](https://delvingbitcoin.org/t/optimistic-zk-verification-using-matt/1050)
 - [BitVM2: Bridging Bitcoin to Second Layers](https://fixupx.com/robin_linus/status/1824004440099053949)
