@@ -11,6 +11,10 @@ Please join us for the 3rd BitDevs Istanbul Socratic Seminar, hosted at CoBAC!
 
 ## Topics
 
+- [The distributional consequences of Bitcoin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4985877)
+    - [No Bullshit Bitcoin News](https://www.nobsbitcoin.com/ecb-economists-nocoiners-may-be-impoverished-by-rising-bitcoin-prices/)
+    - [Comment by Tuur Demeester](https://x.com/TuurDemeester/status/1847512241173582058)
+- [Craig Wright, Who Is Not Satoshi, Launches Bitcoin Core Legal Battle](https://www.forbes.com/sites/digital-assets/2024/10/18/craig-wright-who-is-not-satoshi-launches-bitcoin-core-legal-battle/)
 - [Demoing the first Ark transactions on bitcoin mainnet](https://blog.second.tech/demoing-the-first-ark-transactions-on-bitcoin-mainnet/)
 - [Soft-Fork/Covenant Dependent Layer 2 Review](https://petertodd.org/2024/covenant-dependent-layer-2-review)
 - [Rusty Russell discusses Great Script Restoration](https://x.com/bitcoinbrink/status/1826626054360105413)
