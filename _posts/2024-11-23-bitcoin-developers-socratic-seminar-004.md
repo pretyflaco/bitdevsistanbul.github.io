@@ -6,7 +6,7 @@ meetup: "https://www.meetup.com/bitdevs-istanbul/events/" # TODO
 ---
 
 ## Announcements
-Please join us for the 4rd BitDevs Istanbul Socratic Seminar, hosted at CoBAC! 
+Please join us for the 4th BitDevs Istanbul Socratic Seminar, hosted at CoBAC! 
 
 ## Topics
 
