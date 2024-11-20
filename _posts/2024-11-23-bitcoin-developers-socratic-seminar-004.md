@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Bitcoin Developers’ Socratic Seminar #4 (at CoBAC!)"
-meetup: "https://www.meetup.com/bitdevs-istanbul/events/" # TODO
+meetup: "https://www.meetup.com/bitdevs-istanbul/events/304651685/"
 ---
 
 ## Announcements
